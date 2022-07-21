@@ -1,0 +1,15 @@
+C:\Users\theno\OneDrive\Desktop\Da Game\bin\Debug\net6.0\Da Game.exe
+C:\Users\theno\OneDrive\Desktop\Da Game\bin\Debug\net6.0\Da Game.deps.json
+C:\Users\theno\OneDrive\Desktop\Da Game\bin\Debug\net6.0\Da Game.runtimeconfig.json
+C:\Users\theno\OneDrive\Desktop\Da Game\bin\Debug\net6.0\Da Game.dll
+C:\Users\theno\OneDrive\Desktop\Da Game\bin\Debug\net6.0\Da Game.pdb
+C:\Users\theno\OneDrive\Desktop\Da Game\obj\Debug\net6.0\Da Game.csproj.AssemblyReference.cache
+C:\Users\theno\OneDrive\Desktop\Da Game\obj\Debug\net6.0\Da Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theno\OneDrive\Desktop\Da Game\obj\Debug\net6.0\Da Game.AssemblyInfoInputs.cache
+C:\Users\theno\OneDrive\Desktop\Da Game\obj\Debug\net6.0\Da Game.AssemblyInfo.cs
+C:\Users\theno\OneDrive\Desktop\Da Game\obj\Debug\net6.0\Da Game.csproj.CoreCompileInputs.cache
+C:\Users\theno\OneDrive\Desktop\Da Game\obj\Debug\net6.0\Da Game.dll
+C:\Users\theno\OneDrive\Desktop\Da Game\obj\Debug\net6.0\refint\Da Game.dll
+C:\Users\theno\OneDrive\Desktop\Da Game\obj\Debug\net6.0\Da Game.pdb
+C:\Users\theno\OneDrive\Desktop\Da Game\obj\Debug\net6.0\Da Game.genruntimeconfig.cache
+C:\Users\theno\OneDrive\Desktop\Da Game\obj\Debug\net6.0\ref\Da Game.dll
